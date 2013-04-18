@@ -1,4 +1,4 @@
 virus
 =====
 
-Virus: continually opens and closes the CD drive
+Virus: continually opens notepad, till computer crahes
